@@ -191,28 +191,3 @@ class AmazonTest(webdriver.Firefox):
         submit_btn_card.click()
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        pass
-
-
-
-
-
