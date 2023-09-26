@@ -1,0 +1,30 @@
+Automate e-commerce website functionalities
+
+List of Scenarios:
+
+---Scenario 1: Login---
+-Navigate to the login page
+-Fill in the required fields with valid data
+-Submit the login form
+-Verify the successful login message or the user's profile page
+
+---Scenario 2: Search Functionality---
+-Open the home page
+-Enter a search query in the search field
+-Click on the search button
+-Verify that the search results are displayed correctly
+
+---Scenario 3: Adding Items to Cart---
+-Browse to a product category page
+-Select a specific product
+-Add the product to the cart
+-Verify that the item appears in the cart
+
+---Scenario 4: Complete and Verify Checkout---
+-Browse to a product category page
+-Select a specific product
+-Add the product to the cart
+-Verify that the item appears in the cart
+-Continue Checkout and enter checkout details.
+-Click the Complete Checkout button.
+-Verify Successful Checkout Button.
