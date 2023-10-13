@@ -1,13 +1,17 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
+import os
 
+from amazon.product_filtration import ProductFiltration
 import amazon.constants as const
 
 
 class AmazonTest(webdriver.Firefox):
-    def __init__(self, teardown=False):
+    def __init__(self, teardown=False, driver_path = r"/Users/Naveen/Downloads/Selenium/ThirdPartyDrtivers/Mozilla Driver"):
         self.teardown = teardown
+        self.driver_path = driver_path
+        os.environ['PATH'] += self.driver_path
         super(AmazonTest, self).__init__()
         self.implicitly_wait(15)
         # self.maximize_window()
@@ -36,7 +40,7 @@ class AmazonTest(webdriver.Firefox):
         # enter password to login
         pass_text_field = self.find_element(By.ID, 'ap_password')
         pass_text_field.click()
-        pass_text_field.send_keys('Test123')
+        pass_text_field.send_keys('password')
 
         submit_btn = self.find_element(By.ID, 'signInSubmit')
         submit_btn.click()
@@ -129,7 +133,7 @@ class AmazonTest(webdriver.Firefox):
             print("Item not added to cart")
 
     # Scenario 4
-    def verify_checkout(self, exp_date, exp_month):
+    def checkout(self, exp_date, exp_month):
         cart = self.find_element(By.ID, 'nav-cart')
         cart.click()
 
@@ -170,7 +174,7 @@ class AmazonTest(webdriver.Firefox):
         card_no.send_keys('0000000000000000')
 
         card_name = self.find_element(By.ID, 'pp-CYhAOh-19')
-        card_name.send_keys('Naveen Kularatne')
+        card_name.send_keys('John Doe')
 
         card_expiration_date = self.find_element(By.XPATH, '//*[@id="pp-CYhAOh-23"]/span/span')
         card_expiration_date.click()
@@ -189,5 +193,10 @@ class AmazonTest(webdriver.Firefox):
         # Submit Payment Method
         submit_btn_card = self.find_element(By.XPATH, '//*[@id="pp-aUAzxK-93"]/span/input')
         submit_btn_card.click()
+
+    def apply_filtration(self):
+        filtration = ProductFiltration(driver=self)
+
+
 
 
