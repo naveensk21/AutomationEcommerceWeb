@@ -4,10 +4,11 @@ try:
     with AmazonTest() as bot:
         bot.land_first_page()
         # bot.login()
-        # bot.search()
+        bot.search()
         # bot.add_to_cart()
         # bot.checkout()
         bot.apply_filtration()
+
 
 except Exception as e:
     if "in PATH" in str(e):

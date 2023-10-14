@@ -28,3 +28,8 @@ List of Scenarios:
 -Continue Checkout and enter checkout details.
 -Click the Complete Checkout button.
 -Verify Successful Checkout Button.
+
+---Scenario 5: Filter Product---
+-Browse product.
+-Apply star filtration.
+-verify the products displayed are according to the selected rating.

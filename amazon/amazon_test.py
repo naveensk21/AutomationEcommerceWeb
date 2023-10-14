@@ -12,9 +12,9 @@ class AmazonTest(webdriver.Firefox):
         self.teardown = teardown
         self.driver_path = driver_path
         os.environ['PATH'] += self.driver_path
-        options = webdriver.ChromeOptions()
-        options.add_experimental_option('excludeSwtiches', ['enable-logging']) # ignore warnings
-        super(AmazonTest, self).__init__(options=options)
+        # options = webdriver.ChromeOptions()
+        # options.add_experimental_option('excludeSwtiches', ['enable-logging']) # ignore warnings
+        super(AmazonTest, self).__init__() # (options=options)
         self.implicitly_wait(15)
         # self.maximize_window()
 
@@ -198,6 +198,8 @@ class AmazonTest(webdriver.Firefox):
 
     def apply_filtration(self):
         filtration = ProductFiltration(driver=self)
+        filtration.star_rating(star_value=4)
+
 
 
 
