@@ -19,7 +19,6 @@ class ProductFiltration():
             if str(star_element.get_attribute('innerHTML')).strip() == f'{star_value} Stars &amp; Up':
                 self.driver.execute_script("arguments[0].click();", star_element)
 
-
         time.sleep(3)
         # verify the filteration
         product_ratings = []
@@ -37,7 +36,12 @@ class ProductFiltration():
             product_ratings.append(ratings)
             product_rating_values.append(ratings_value)
 
+        print(f'rating score: {star_value}')
+        print(f'Product rating: {[x[:3]for x in product_ratings]}')
+        print(f'product_rating_values: {product_rating_values}')
+
         for x in product_ratings:
             if int(x[:3]) >= star_value:
-                print('Star Filtration Successful')
-            print("Star Filtration Unsuccessful")
+                print('Star Filtration Successful!')
+            else:
+              print("Star Filtration Unsuccessful!")

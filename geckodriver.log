@@ -4413,3 +4413,230 @@ JavaScript error: , line 0: uncaught exception:
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript warning: https://www.amazon.com/s?k=iphone+12&rh=n%3A2335752011%2Cp_72%3A2491149011&dc&ds=v1%3A1XrBPAk1cs6vFXqgPE4SYV2nSDuLJuI8IAcQW75odnw&crid=2JC7709SBUL67&qid=1697304427&rnid=2491147011&sprefix=iphone%2Caps%2C235&ref=sr_nr_p_72_1, line 10211: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1697305089435	geckodriver	INFO	Listening on 127.0.0.1:57312
+1697305089947	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r_/jlrv8x9105j0p3m5rqnbv0mm0000gn/T/rust_mozprofileSU39ro"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697305090624	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1697305090922	Marionette	INFO	Listening on port 57320
+Read port: 57320
+WebDriver BiDi listening on ws://127.0.0.1:57313
+1697305091501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57313/devtools/browser/b88dfade-11aa-4740-af04-9fa1caa17337
+JavaScript warning: https://www.amazon.com/, line 991: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+1697305099321	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.amazon.com/s?k=iphone+12&ref=nb_sb_noss, line 12056: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=iphone+12&rh=n%3A2335752011%2Cp_72%3A2491149011&dc&qid=1697305099&rnid=2491147011&ref=sr_nr_p_72_1&ds=v1%3A9ZSMoBW2Tu0laB%2BA9S2L0%2BykalNEIA7uuqkYyomI538, line 10205: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1697305174124	geckodriver	INFO	Listening on 127.0.0.1:57494
+1697305174641	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r_/jlrv8x9105j0p3m5rqnbv0mm0000gn/T/rust_mozprofileOL23RG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697305175250	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1697305175485	Marionette	INFO	Listening on port 57502
+Read port: 57502
+WebDriver BiDi listening on ws://127.0.0.1:57495
+1697305176123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57495/devtools/browser/00fd8a72-9ca0-4253-bbd1-c71cc66ca2e5
+JavaScript warning: https://www.amazon.com/, line 1967: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com/s?k=iphone+12&ref=nb_sb_noss, line 12248: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=iphone+12&rh=n%3A2335752011%2Cp_72%3A2491149011&dc&qid=1697305181&rnid=2491147011&ref=sr_nr_p_72_1&ds=v1%3AYxriqA1WuVleUbQExcohkfDFvo%2FrFA%2FoXNnjuVCuYC8, line 10781: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1697305260527	geckodriver	INFO	Listening on 127.0.0.1:57689
+1697305261045	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r_/jlrv8x9105j0p3m5rqnbv0mm0000gn/T/rust_mozprofileN36P57"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697305261511	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1697305261692	Marionette	INFO	Listening on port 57698
+Read port: 57698
+WebDriver BiDi listening on ws://127.0.0.1:57690
+1697305262250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57690/devtools/browser/a69588f4-a7b2-4d09-897a-51dfb3d44e37
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/, line 1967: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com/s?k=iphone+12&crid=1AEX51DHBG556&sprefix=%2Caps%2C245&ref=nb_sb_noss_2, line 12140: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=iphone+12&rh=n%3A2335752011%2Cp_72%3A2491149011&dc&ds=v1%3Al%2Fz9BuQ0u%2FJHbWXYSQGYykyXrVNe8Im7Q7fIqScgcAo&crid=1AEX51DHBG556&qid=1697305321&rnid=2491147011&sprefix=%2Caps%2C245&ref=sr_nr_p_72_1, line 10797: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1697305399628	geckodriver	INFO	Listening on 127.0.0.1:57846
+1697305400147	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r_/jlrv8x9105j0p3m5rqnbv0mm0000gn/T/rust_mozprofilet330ek"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697305400643	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1697305400825	Marionette	INFO	Listening on port 57854
+Read port: 57854
+WebDriver BiDi listening on ws://127.0.0.1:57847
+1697305401376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57847/devtools/browser/f6832ba9-03ea-4874-83a1-b34339d61b7a
+JavaScript warning: https://www.amazon.com/, line 1971: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com/s?k=iphone+12&ref=nb_sb_noss, line 12046: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=iphone+12&rh=n%3A2335752011%2Cp_72%3A2491149011&dc&ds=v1%3AA%2BXagA1xM8pEJ6%2B8SJzoTrTOImNyiz15l1ysF0j7aWI&qid=1697305405&rnid=2491147011&ref=sr_nr_p_72_1, line 10197: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1697305699467	geckodriver	INFO	Listening on 127.0.0.1:58066
+1697305700018	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r_/jlrv8x9105j0p3m5rqnbv0mm0000gn/T/rust_mozprofile3oTqG8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697305700540	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1697305700787	Marionette	INFO	Listening on port 58074
+Read port: 58074
+WebDriver BiDi listening on ws://127.0.0.1:58067
+1697305701430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58067/devtools/browser/6bae361f-e44c-46fc-9e9e-4bc95edfaa5a
+JavaScript warning: https://www.amazon.com/, line 1956: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=iphone+12, line 12295: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=iphone+12&rh=n%3A2335752011%2Cp_72%3A2491149011&dc&qid=1697305707&rnid=2491147011&ref=sr_nr_p_72_1&ds=v1%3AEwz9qadfGQ%2FNZ734EOxNej5EAbhhgEElo3%2BW24Ms5TQ, line 10403: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1697305723975	geckodriver	INFO	Listening on 127.0.0.1:58219
+1697305723995	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r_/jlrv8x9105j0p3m5rqnbv0mm0000gn/T/rust_mozprofilekxTix1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697305724442	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1697305724979	Marionette	INFO	Listening on port 58225
+WebDriver BiDi listening on ws://127.0.0.1:58220
+Read port: 58225
+1697305725219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58220/devtools/browser/65cfbb40-befb-47eb-9d3d-4cd0a1eb3008
+JavaScript warning: https://www.amazon.com/, line 1952: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=iphone+12, line 12065: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=iphone+12&rh=n%3A2335752011%2Cp_72%3A2491149011&dc&ds=v1%3ARnvNc8vIYqYtvFadlDrVdXkQtqyR8EuKYRy6s%2B3PRrU&qid=1697305729&rnid=2491147011&ref=sr_nr_p_72_1, line 10216: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1697307002320	geckodriver	INFO	Listening on 127.0.0.1:58471
+1697307002836	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r_/jlrv8x9105j0p3m5rqnbv0mm0000gn/T/rust_mozprofileTU6mb8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697307003318	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1697307003502	Marionette	INFO	Listening on port 58479
+Read port: 58479
+WebDriver BiDi listening on ws://127.0.0.1:58472
+1697307004050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58472/devtools/browser/cfdd9634-bb4d-4d3e-82b9-21fd9da7de9c
+JavaScript warning: https://www.amazon.com/, line 1974: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com/s?k=iphone+12&ref=nb_sb_noss, line 12303: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=iphone+12&rh=n%3A2335752011%2Cp_72%3A2491149011&dc&ds=v1%3AW4UfFmAiWxZFttz%2B0yi0ssQAzCczmsGwiWSIES42r50&qid=1697307007&rnid=2491147011&ref=sr_nr_p_72_1, line 10270: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/41W974vG8QL._RC|71dXag6MKSL.js,01QvReFeJyL.js,01phmzCOwJL.js,01eOvPdxG7L.js,71MqgZnN1GL.js,41306Iio4NL.js,115pV8Rl02L.js,01+pnQJuQ0L.js,21rDHgaooIL.js,41uimpD4OpL.js,51t-JTxfnwL.js,31Pa7Gj4ZBL.js,11lEMI5MhIL.js,31UsGkeqBUL.js,01LEzWzrPZL.js,01AqeWA7PKL.js_.js?AUIClients/NavDesktopUberAsset&mx8R1gjd#desktop.language-en.us.488400-T1.488413-T1.366740-T1, line 121: Script terminated by timeout at:
+onEnter/z<@https://images-na.ssl-images-amazon.com/images/I/41W974vG8QL._RC|71dXag6MKSL.js,01QvReFeJyL.js,01phmzCOwJL.js,01eOvPdxG7L.js,71MqgZnN1GL.js,41306Iio4NL.js,115pV8Rl02L.js,01+pnQJuQ0L.js,21rDHgaooIL.js,41uimpD4OpL.js,51t-JTxfnwL.js,31Pa7Gj4ZBL.js,11lEMI5MhIL.js,31UsGkeqBUL.js,01LEzWzrPZL.js,01AqeWA7PKL.js_.js?AUIClients/NavDesktopUberAsset&mx8R1gjd#desktop.language-en.us.488400-T1.488413-T1.366740-T1:121:173
+
+1697328636785	Marionette	INFO	Stopped listening on port 58479
